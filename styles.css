@@ -172,6 +172,36 @@ main {
     margin: 0;
 }
 
+.vmi-workflow {
+    padding: 2rem 0;
+}
+
+.vmi-desc {
+    color: var(--color-text-muted);
+    margin: 0 0 1.5rem;
+    max-width: 600px;
+}
+
+.vmi-image-wrap {
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    margin-bottom: 1rem;
+    max-width: 800px;
+}
+
+.vmi-screenshot {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.vmi-caption {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin: 0;
+}
+
 .download {
     text-align: center;
     padding: 2rem 0;
